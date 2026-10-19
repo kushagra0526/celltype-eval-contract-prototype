@@ -1,0 +1,22 @@
+{
+ "set": "heldout",
+ "worlds": 150,
+ "truly_better": 30,
+ "truly_not": 120,
+ "results": {
+  "random_point": {
+   "false_claims": 6,
+   "true_claims": 16
+  },
+  "scaffold_point": {
+   "false_claims": 8,
+   "true_claims": 27
+  },
+  "contract": {
+   "false_claims": 1,
+   "true_claims": 26
+  }
+ },
+ "near_dup_share_random": 0.02093677498497381,
+ "near_dup_share_scaffold": 0.0
+}
