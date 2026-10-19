@@ -1,0 +1,7 @@
+{
+  "note": "Frozen before the first held-out run. Dev used world.DEV, seeds 1-150, skill U(0.05,1.0), memo U(0,0.9). Held-out: a differently structured screen never run during development - more and smaller scaffold families, noisier assay, stronger plate effects, pharmacophore effects stronger than family effects, a different spread of candidate-model skill.",
+  "seeds": [5001, 5150],
+  "cfg": {"fam": [90, 120], "fam_size": [2, 8], "noise": 0.8, "plate": 0.5, "ph_effect": 1.3, "fam_effect": 0.7, "cmpd_dev": 0.45},
+  "skill": [0.02, 0.9],
+  "memo": [0.0, 0.9]
+}
